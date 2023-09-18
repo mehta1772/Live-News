@@ -1,27 +1,34 @@
-# Newsweb
+## Live-News
+Overview:
+A real-time news application built with Angular.js and Bootstrap, powered by the NewsAPI for up-to-the-minute news updates.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+Features:
 
-## Development server
+Live news updates from various sources and categories.
+Responsive design for seamless browsing on all devices.
+User-friendly interface with Bootstrap for a modern look and feel.
+Search functionality to find news articles by keywords.
+Detailed article view with full content and source information.
+Bookmark articles for later reading.
+Technologies Used:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular.js: Frontend framework for building dynamic web applications.
+Bootstrap: Frontend CSS framework for responsive and attractive UI.
+NewsAPI: API for fetching news articles from various sources.
+HTML/CSS: Standard web technologies for structure and styling.
 
-## Code scaffolding
+Run the app using ng serve and access it in your browser at http://localhost:4200.
+Contributing:
+We welcome contributions from the community. If you'd like to enhance the app or report issues, please refer to our contribution guidelines.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
+#Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+License:
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Authors:
+
+Purshottam Mehta
