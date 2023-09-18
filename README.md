@@ -13,8 +13,11 @@ Bookmark articles for later reading.
 Technologies Used:
 
 Angular.js: Frontend framework for building dynamic web applications.
+
 Bootstrap: Frontend CSS framework for responsive and attractive UI.
+
 NewsAPI: API for fetching news articles from various sources.
+
 HTML/CSS: Standard web technologies for structure and styling.
 
 Run the app using ng serve and access it in your browser at http://localhost:4200.
